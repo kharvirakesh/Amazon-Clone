@@ -17,9 +17,9 @@ function App() {
       <Content>
         <AppHome />
       </Content>
-      {/* <Footer>
+      <Footer>
         <AppFooter />
-      </Footer> */}
+      </Footer>
     </Layout>
   );
 }

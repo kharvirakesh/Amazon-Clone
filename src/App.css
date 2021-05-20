@@ -1,5 +1,5 @@
 .worksBlock {
-  background: url("assets/images/bg-works.jpg") no-repeat;
+  background: url("./FrondEnd/assets/images/bg-works.jpg") no-repeat;
   background-position: 50% 0;
   background-size: cover;
   background-attachment: fixed;
